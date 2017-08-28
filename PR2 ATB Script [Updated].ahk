@@ -28,3 +28,4 @@ Click,
 }
 F2::exitapp
 F3::pause
+F4::reload
