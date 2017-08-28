@@ -18,3 +18,5 @@ Press F1 to start the script
 Press F2 to end the script
 
 Press F3 to pause the script
+
+Press F4 to reload the script
