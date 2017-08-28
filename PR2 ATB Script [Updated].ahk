@@ -8,7 +8,7 @@ Click,
 MouseMove, 865, 545, 5
 Click,
 Click,
-Send, fashdfjlafe
+Send, (Password to your level)
 MouseMove, 965, 565, 5
 Click,
 MouseMove, 895, 440, 5
