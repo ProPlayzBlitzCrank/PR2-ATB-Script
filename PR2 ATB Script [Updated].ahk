@@ -2,13 +2,17 @@
 Loop,
 
 {
+MouseMove, 1400, 56, 5
+Click,
+MouseMove, 1593, 56, 5
+Click, 
 
 MouseMove, 943, 882, 5
 Click,
 MouseMove, 865, 545, 5
 Click,
 Click,
-Send, (Password to your level)
+Send, fashdfjlafe
 MouseMove, 965, 565, 5
 Click,
 MouseMove, 895, 440, 5
